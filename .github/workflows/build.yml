@@ -5,7 +5,7 @@ name: Build
 # Rilis otomatis: naikkan CFBundleShortVersionString di Resources/Info.plist, lalu merge ke main.
 on:
   push:
-    branches: [main]
+    branches: ["**"] # build di setiap branch; rilis tetap hanya dari main
     tags: ["v*"]
   pull_request:
   workflow_dispatch:
