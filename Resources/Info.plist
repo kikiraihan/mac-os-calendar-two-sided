@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>LiteCalendar</string>
+    <key>CFBundleDisplayName</key><string>LiteCalendar</string>
+    <key>CFBundleIdentifier</key><string>id.local.litecalendar</string>
+    <key>CFBundleExecutable</key><string>LiteCalendar</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSCalendarsUsageDescription</key><string>LiteCalendar menampilkan acara dari kalender di Mac ini (iCloud, Google, Exchange) sebagai titik di setiap tanggal.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key><string>LiteCalendar menampilkan acara dari kalender di Mac ini (iCloud, Google, Exchange) sebagai titik di setiap tanggal.</string>
+</dict>
+</plist>
